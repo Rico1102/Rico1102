@@ -1,8 +1,8 @@
 Hi I'm **Aditya Saurav**, I am interested about desiging and implementing tools and systems that helps me and others.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/aditya-saurav/)](https://www.linkedin.com/in/aditya-saurav/)
-[![Codeforces](https://badges.riever.dev/codeforces/r1c0.svg)](https://codeforces.com/profile/Ricoprogrammer)
-[![Codechef](https://cp-logo.vercel.app/codechef/r1c0/)](https://www.codechef.com/users/ricoprog/)
+[![Codeforces](https://badges.riever.dev/codeforces/Ricoprogrammer.svg)](https://codeforces.com/profile/Ricoprogrammer)
+[![Codechef](https://cp-logo.vercel.app/codechef/ricoprog/)](https://www.codechef.com/users/ricoprog)
 [![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&labelColor=black)](https://leetcode.com/u/r1co/)
 
 :school: Grad from Army Institute of Technology, Pune, India.
