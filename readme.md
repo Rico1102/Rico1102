@@ -7,8 +7,10 @@ Hi I'm **Aditya Saurav**, I am interested about desiging and implementing tools 
 
 :school: Grad from Army Institute of Technology, Pune, India.
 
+:office: Currently working at **Deutsche Bank**.
+
 -   🌱 I’m passionate about backend engineering, system design and DSA
--   👯 I’m looking to collaborate on open source projects in java, python
+-   👯 I’m looking to collaborate on open source projects in Java, Python, JavaScript
 -   💬 Ask me about backend engineering, system design and DSA
 -   📫 How to reach me: adityasaurav17125@gmail.com
 -   ⚡ Fun fact: Engineer by the day, gamer & biker by the night.
